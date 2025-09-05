@@ -11,7 +11,7 @@ Developed to meet the rigorous standards of a Google L6 engineering environment,
 
 
 
-## 🚀 Quick Start
+## Quick Start
 
 Get up and running with the SalesPro AI Agent in minutes. This guide provides a one-command installation and a 30-second demonstration to showcase the agent's core functionality.
 
@@ -38,7 +38,7 @@ This command will trigger the n8n workflow, which will prompt you for your Sales
 
 
 
-## ✨ Features & Benefits
+## Features & Benefits
 
 The SalesPro AI Agent is designed to deliver significant business value by automating critical data operations and providing intelligent insights. Here are some of the key features and benefits:
 
@@ -59,7 +59,7 @@ The SalesPro AI Agent is designed to deliver significant business value by autom
 
 
 
-## 🏛️ Architecture Overview
+## Architecture Overview
 
 The SalesPro AI Agent is built on a modern, scalable architecture that combines the power of n8n workflows with a sophisticated AI agent. This section provides a high-level overview of the system architecture, component breakdown, and data flow.
 
@@ -93,7 +93,7 @@ The data flow through the agent is as follows:
 
 
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 This section provides detailed instructions for installing and configuring the SalesPro AI Agent.
 
@@ -146,7 +146,7 @@ N8N_WEBHOOK_URL=your_n8n_webhook_url
 
 
 
-## 📖 Usage Examples
+## Usage Examples
 
 This section provides practical examples of how to use the SalesPro AI Agent to automate your data extraction and analysis tasks.
 
@@ -190,7 +190,7 @@ If you encounter any issues while using the agent, please refer to the [Troubles
 
 
 
-## 📄 Workflow Documentation
+## Workflow Documentation
 
 This section provides a detailed breakdown of the n8n workflow that powers the SalesPro AI Agent. The workflow is designed to be modular and extensible, allowing you to customize it to meet your specific needs.
 
@@ -224,7 +224,7 @@ The complete n8n workflow is available in the `workflows/` directory. You can im
 
 
 
-## 🔌 API Reference
+## API Reference
 
 The SalesPro AI Agent exposes a simple API that allows you to trigger the workflow from other applications and services. This section provides a detailed reference for the API.
 
@@ -255,7 +255,7 @@ If an error occurs, the API will return a JSON object with an error message.
 
 
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your contributions help make the SalesPro AI Agent better for everyone.
 
@@ -284,25 +284,25 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 For more detailed contributing guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## 📄 License
+## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **NSG Team**: For providing the business requirements and domain expertise
 - **n8n Community**: For the powerful workflow automation platform
 - **OpenAI**: For the advanced language model capabilities
 - **LeapFrog Digital**: For the SalesPro API integration
 
-## 📞 Contact & Support
+## Contact & Support
 
 - **Project Maintainer**: NSG Development Team
-- **Email**: dev@nsgmail.com
+- **Email**: pmoore@nsgmail.com
 - **Issues**: [GitHub Issues](https://github.com/nsg/salespro-ai-agent/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/nsg/salespro-ai-agent/discussions)
 
-## 🔗 Related Projects
+## Related Projects
 
 - [n8n](https://n8n.io/) - Workflow automation platform
 - [OpenAI API](https://platform.openai.com/) - AI language model services
@@ -313,7 +313,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 <div align="center">
   <img src="assets/images/features_showcase.png" alt="SalesPro AI Agent Features" width="600"/>
   
-  **Built with ❤️ by the NSG Team**
+  **Built with ❤️ by Perm Moore, Grant Schmidt and the NSG Team**
   
   *Transforming sales operations through intelligent automation*
 </div>
